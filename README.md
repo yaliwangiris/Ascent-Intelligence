@@ -1,9 +1,3 @@
-# Ascent Intelligence — Homepage Deployment Guide
-
-This README provides instructions for deploying and maintaining this homepage, with specific guidance for Namecheap hosting.
-
----
-
 ## Overview
 
 This homepage is built as a **single HTML file** (`index.html`) using plain HTML, CSS, and JavaScript. No frameworks, no build tools, no dependencies. Any standard web hosting provider that supports static files can serve this site.
